@@ -1,0 +1,159 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Alata', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.section-one{
+    border: 2px solid black;
+    padding: 2% 7%;
+    text-align: center;
+}
+.section-one div{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.biography{
+    font-size: 3.5rem;
+}
+.avatar{
+    width: 30%;
+}
+.jemmas{
+    margin-top: 2rem;
+}
+.article{
+    width: 52%;
+    line-height: 2;
+    margin: 0 auto;
+    font-size: medium;
+}
+.icon-social img{
+    margin-left: 2rem;
+}
+.second-section{
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+.second-section div{
+    width: 50%;
+}
+.collaborate{
+    font-size: 3.5rem;
+    width: 100%;
+}
+.headline{
+    margin-top: 1rem;
+    transform: uppercase;
+}
+.dwelling-elegance{
+    width: 90%;
+    font-size: 1.8rem;
+    margin-bottom: 2rem;
+}
+.principal{
+    width: 70%;
+    line-height: 2;
+    margin-bottom: 2rem;
+}
+.design{
+    width: 50%;
+    text-align: center;
+    font-size: 3rem;
+    word-spacing: .8rem;
+    margin: 0 auto;
+    padding: 3% 0;
+}
+hr{
+    width: 50%;
+    margin: 0 auto;
+}
+.one{
+    margin: 0 auto;
+    width: 40%;
+    padding: 1.5% 0;
+    text-align: center;
+    font-size: 3rem;
+    margin-top: 6rem;
+}
+.arrow{
+    text-align: center;
+}
+.third-section{
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+    margin: 0 auto;
+    line-height: 1.5;
+}
+.third-description{
+    width: 80%;
+    margin-bottom: 2rem;
+}
+.living{
+    width: 80%;
+}
+.learn-more{
+    text-align: center;
+    padding: 5% 0;
+}
+.learn-more p{
+   border: 2px solid white;
+   padding: 1.5%;
+   width: 12rem;
+   margin: 0 auto;
+   cursor: pointer;
+} 
+.footer{
+    text-align: center;
+    margin-top: 5rem;
+}
+.footer div{
+    margin-top: 2rem;
+}
+.horizon{
+    width: 20%;
+    margin-top: 2rem;
+}
+.sample-text{
+    width: 20%;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+.text{
+    width: 40%;
+   
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 3rem;
+    padding: 3% 7%;
+}
+.lin{
+    text-align: center;
+}
+.last-footer{
+    background-color: gray;
+    color: white;
+    padding: 3% 7%;
+}
+.gallery{
+    width: 80%;
+    margin: 0 auto;
+}
+.gallery div{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3rem;
+}
+.gallery div img{
+   border-radius: 20px;
+}
